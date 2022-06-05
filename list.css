@@ -1,0 +1,72 @@
+h1 {
+    text-align: center;
+}
+
+.card {
+    padding-top: 10px;
+    background-color: #f2f2f1;
+    border: solid #333 5px;
+    border-radius: 4px;
+
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+
+}
+
+
+.list {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+#menu img {
+    width: 100px;
+}
+
+#blue{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+
+    
+}
+
+.hero img {
+    width: 100px;
+    padding: 10px;
+    border: solid black;
+    margin-top: 10px;
+    margin-top: 10px;
+    background-color: #d17b59;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.hero-1 img {
+    width: 100px;
+    padding: 10px;
+    border: solid black;
+    margin-top: 10px;
+    margin-top: 10px;
+    background-color: brown;
+}
+
+.hero-1 {
+    display: flex;
+    flex-direction: column;
+
+    padding: 10px;
+}
